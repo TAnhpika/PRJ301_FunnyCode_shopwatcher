@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<web-app version="6.0" xmlns="https://jakarta.ee/xml/ns/jakartaee" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://jakarta.ee/xml/ns/jakartaee https://jakarta.ee/xml/ns/jakartaee/web-app_6_0.xsd">
+    <session-config>
+        <session-timeout>
+            30
+        </session-timeout>
+    </session-config>
+
+    <context-param>
+        <param-name>CLOUD_NAME</param-name>
+        <param-value>dy2fuqx2w</param-value>
+    </context-param>
+    
+    <context-param>
+        <param-name>API_KEY</param-name>
+        <param-value>256478146535441</param-value>
+    </context-param>
+
+    <context-param>
+        <param-name>API_SECRET</param-name>
+        <param-value>0ySHbfNHQ3m_zTWU9uE3zsxJDFo</param-value>
+    </context-param>
+</web-app>
