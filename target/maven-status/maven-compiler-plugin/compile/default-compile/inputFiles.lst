@@ -1,6 +1,8 @@
 D:\Documents\NetBeansProjects\FunnyCode\shopwatcher\src\main\java\com\anhpika\shopwatcher\controller\AuthController.java
 D:\Documents\NetBeansProjects\FunnyCode\shopwatcher\src\main\java\com\anhpika\shopwatcher\model\Account.java
+D:\Documents\NetBeansProjects\FunnyCode\shopwatcher\src\main\java\com\anhpika\shopwatcher\controller\UploadController.java
 D:\Documents\NetBeansProjects\FunnyCode\shopwatcher\src\main\java\com\anhpika\shopwatcher\filter\BlockJspFilter.java
+D:\Documents\NetBeansProjects\FunnyCode\shopwatcher\src\main\java\com\anhpika\shopwatcher\config\CloudinaryConfig.java
 D:\Documents\NetBeansProjects\FunnyCode\shopwatcher\src\main\java\com\anhpika\shopwatcher\JakartaRestConfiguration.java
 D:\Documents\NetBeansProjects\FunnyCode\shopwatcher\src\main\java\com\anhpika\shopwatcher\resources\JakartaEE10Resource.java
 D:\Documents\NetBeansProjects\FunnyCode\shopwatcher\src\main\java\com\anhpika\shopwatcher\dao\AccountDAO.java

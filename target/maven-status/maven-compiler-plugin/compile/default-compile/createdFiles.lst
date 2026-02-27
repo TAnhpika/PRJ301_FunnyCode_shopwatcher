@@ -6,3 +6,4 @@ com\anhpika\shopwatcher\filter\BlockJspFilter.class
 com\anhpika\shopwatcher\filter\AuthFilter.class
 com\anhpika\shopwatcher\controller\AuthController.class
 com\anhpika\shopwatcher\JakartaRestConfiguration.class
+com\anhpika\shopwatcher\controller\UploadController.class
