@@ -1,9 +1,13 @@
+com\anhpika\shopwatcher\utils\EmailService$1.class
+com\anhpika\shopwatcher\utils\OtpService.class
+com\anhpika\shopwatcher\utils\EmailService.class
+com\anhpika\shopwatcher\config\CloudinaryConfig.class
+com\anhpika\shopwatcher\filter\AuthFilter.class
+com\anhpika\shopwatcher\JakartaRestConfiguration.class
+com\anhpika\shopwatcher\controller\UploadController.class
 com\anhpika\shopwatcher\dao\AccountDAO.class
 com\anhpika\shopwatcher\resources\JakartaEE10Resource.class
 com\anhpika\shopwatcher\model\Account.class
-com\anhpika\shopwatcher\config\CloudinaryConfig.class
 com\anhpika\shopwatcher\filter\BlockJspFilter.class
-com\anhpika\shopwatcher\filter\AuthFilter.class
 com\anhpika\shopwatcher\controller\AuthController.class
-com\anhpika\shopwatcher\JakartaRestConfiguration.class
-com\anhpika\shopwatcher\controller\UploadController.class
+com\anhpika\shopwatcher\config\EmailInfomation.class
